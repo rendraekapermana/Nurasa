@@ -1,0 +1,51 @@
+{
+  "categories": {
+    "1": {
+      "imageResource": "https://firebasestorage.googleapis.com/v0/b/nurasa-b6670.appspot.com/o/Complete%20Package.png?alt=media&token=35ac0748-9a5d-4a8a-b827-59786e114d82",
+      "name": "Complete Package"
+    },
+    "2": {
+      "imageResource": "https://firebasestorage.googleapis.com/v0/b/nurasa-b6670.appspot.com/o/Saving%20Package.png?alt=media&token=22737f9b-961e-4be9-afad-abdb351ebf3e",
+      "name": "Saving Package"
+    },
+    "3": {
+      "imageResource": "https://firebasestorage.googleapis.com/v0/b/nurasa-b6670.appspot.com/o/Healthy%20Package.png?alt=media&token=4a1fcbea-0bc7-4121-8561-9c1104cbba95",
+      "name": "Healthy Package"
+    },
+    "4": {
+      "imageResource": "https://firebasestorage.googleapis.com/v0/b/nurasa-b6670.appspot.com/o/Fast%20Food.png?alt=media&token=00b7ddf8-c914-42eb-ba96-8aac5830506f",
+      "name": "Fast Food Package"
+    },
+    "5": {
+      "imageResource": "https://firebasestorage.googleapis.com/v0/b/nurasa-b6670.appspot.com/o/Event%20Package.png?alt=media&token=e8283a1b-8896-4fdf-a7b1-4acfb2b14f3c",
+      "name": "Event Package"
+    },
+    "6": {
+      "imageResource": "https://firebasestorage.googleapis.com/v0/b/nurasa-b6670.appspot.com/o/See%20More.png?alt=media&token=cb0dc3ac-af3d-4e41-8f72-303c8e95e45d",
+      "name": "See More"
+    }
+  },
+
+  "article": {
+    "1": {
+      "imgThumb": "https://firebasestorage.googleapis.com/v0/b/nurasa-b6670.appspot.com/o/Article%201.png?alt=media&token=2b639acc-be7a-405f-9643-3dcdb196a7ac",
+      "tvPlaceName": "Article 1",
+      "tvVote": "2.200 dilihat"
+    },
+    "2": {
+      "imgThumb": "https://firebasestorage.googleapis.com/v0/b/nurasa-b6670.appspot.com/o/Article%202.png?alt=media&token=8d2d73af-a03d-4e2e-b9dd-2b2ecc04b6bd",
+      "tvPlaceName": "Article 2",
+      "tvVote": "1.220 dilihat"
+    },
+    "3": {
+      "imgThumb": "https://firebasestorage.googleapis.com/v0/b/nurasa-b6670.appspot.com/o/Article%203.png?alt=media&token=df559678-293b-4380-b150-02b32e9d433d",
+      "tvPlaceName": "Article 3",
+      "tvVote": "1.320 dilihat"
+    },
+    "4": {
+      "imgThumb": "https://firebasestorage.googleapis.com/v0/b/nurasa-b6670.appspot.com/o/Article%201.png?alt=media&token=2b639acc-be7a-405f-9643-3dcdb196a7ac",
+      "tvPlaceName": "Article 4",
+      "tvVote": "1.220 dilihat"
+    }
+  }
+}
