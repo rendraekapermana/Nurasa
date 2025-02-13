@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "633026185787",
+    "firebase_url": "https://nurasa-b6670-default-rtdb.firebaseio.com",
+    "project_id": "nurasa-b6670",
+    "storage_bucket": "nurasa-b6670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633026185787:android:031b791c1abc94d6a3ea1e",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEosnfsbQwgatoJRbIxQU6_ODnPm6Jt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633026185787:android:92cd2bfdb6622d63a3ea1e",
+        "android_client_info": {
+          "package_name": "com.example.homepage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEosnfsbQwgatoJRbIxQU6_ODnPm6Jt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633026185787:android:1b5be6c83570d3b5a3ea1e",
+        "android_client_info": {
+          "package_name": "com.example.nurasa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEosnfsbQwgatoJRbIxQU6_ODnPm6Jt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

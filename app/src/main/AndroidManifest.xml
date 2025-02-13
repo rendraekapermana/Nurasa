@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Nurasa"
+        tools:targetApi="31">
+
+        <!-- Login Activity (Launcher) -->
+        <activity
+            android:name=".auth.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Homepage Activity -->
+        <activity
+            android:name=".homepage.Homepage"
+            android:exported="false" />
+
+        <!-- Profile Activity -->
+        <activity
+            android:name=".profile.Profile"
+            android:exported="false" />
+
+        <!-- Register Activity -->
+        <activity
+            android:name="com.example.nurasa.auth.RegisterActivity"
+            android:exported="false" />
+
+        <!-- Order Activity -->
+        <activity
+            android:name="com.example.nurasa.menu.OrderActivity"
+            android:exported="false" />
+
+        <!-- Order History Activity -->
+        <activity
+            android:name="com.example.nurasa.history.OrderHistory"
+            android:exported="false" />
+
+        <!-- Article Detail Activity -->
+        <activity
+            android:name=".article.ArticleDetailActivity"
+            android:exported="false"/>
+
+    </application>
+
+</manifest>
